@@ -42,7 +42,7 @@ pass: admin
 
 # SEGMENTO DE AGREGACION / MODIFICACIONES MODULOS / CODIFICACION
 
-# 7PASO - creación de una aplicación
+# 7 PASO - creación de una aplicación
 
 python manage.py startapp gt04pares
 
